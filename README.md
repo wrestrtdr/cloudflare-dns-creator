@@ -43,7 +43,7 @@ if(!empty($_POST["name"]) and !empty($_POST["value"]) and !empty($_POST["record"
 ```
 In the "index.php" file (code snippet above), make sure to edit the the `$key = "Your Cloudflare Zone ID goes here";` and `$id = new \Cloudflare\Api("Your Cloudflare Email", "Your Cloudflare Global API Key")`.
 There are comments below each one of these lines, if you need help with finding your Cloudflare keys.
-Also make sure to replace all entries of `yourdomain.name` with your actual domain name.
+**Also make sure to replace all entries of `yourdomain.name` with your actual domain name.**
 
 # Made using …
 
