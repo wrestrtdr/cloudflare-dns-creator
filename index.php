@@ -29,11 +29,10 @@ if(!empty($_POST["name"]) and !empty($_POST["value"]) and !empty($_POST["record"
   <title>cloudflare-dns-creator</title>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <link href="https://unpkg.com/spectre.css/dist/spectre.min.css" rel="stylesheet">
-  <link href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" rel="stylesheet">
-  <link href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css" rel="stylesheet">
-  <link href="favicon.ico?" rel="shortcut icon">
-  <link href="style.css" rel="stylesheet" type="text/css">
+  <link href="/assets/spectre.min.css" rel="stylesheet">
+  <link href="/assets/spectre-exp.min.css" rel="stylesheet">
+  <link href="/assets/favicon.ico?" rel="shortcut icon">
+  <link href="/assets/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <div class="outer">
