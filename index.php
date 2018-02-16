@@ -74,3 +74,4 @@ if(!empty($_POST["name"]) and !empty($_POST["value"]) and !empty($_POST["record"
   </div>
 </body>
 </html>
+<!-- Script downloaded from https://github.com/reckr/cloudflare-dns-creator (c) 2018 -->
