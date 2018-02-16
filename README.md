@@ -11,10 +11,10 @@ You will need:
 * Domain name
 
 ```
-git clone https://github.com/caspermcpe/cloudflare-dns-creator.git
+git clone https://github.com/reckr/cloudflare-dns-creator.git
 ```
 
-Alternatively, download as [a ZIP-archive](https://github.com/caspermcpe/cloudflare-dns-creator/archive/master.zip) and extract the files to your web server.
+Alternatively, download as [a ZIP-archive](https://github.com/reckr/cloudflare-dns-creator/archive/master.zip) and extract the files to your web server.
 When everything is on place, running a correctly configured web server, you can begin with modifying the files.
 
 **OPTIONAL: Rename the file "htaccess.txt" to ".htaccess" to get the recommended settings for an Apache HTTP server.**
@@ -52,4 +52,4 @@ There are comments below each one of these lines, if you need help with finding 
 * [Cloudflare PHP API](https://github.com/jamesryanbell/cloudflare)
 
 # License
-MIT License — see the [LICENSE.md](https://github.com/caspermcpe/cloudflare-dns-creator/blob/master/LICENSE.md) for more details.
+MIT License — see the [LICENSE.md](https://github.com/reckr/cloudflare-dns-creator/blob/master/LICENSE.md) for more details.
